@@ -30,11 +30,11 @@ The car should try to go as close as possible to the 50 MPH speed limit,
     There are safety issues to consider when changing lanes; the car considers a lane open if it detects that there is no car ahead of us, and will maintain a reference velocity of 49.0
  
    
-[img](images/img1.png)
+![img](images/img1.png)
    
    and another one 
    
-  [img](images/img2.png)
+  ![img](images/img2.png)
    
 ### Simulator.
 You can download the Term3 Simulator which contains the Path Planning Project from the [releases tab (https://github.com/udacity/self-driving-car-sim/releases).
